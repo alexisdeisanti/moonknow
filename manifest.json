@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Find out what sign the moon is in right now",
-  "description": "This extension shows lunarium.co.uk's current lunar influence",
+  "name": "Astronow",
+  "description": "This extension shows lunarliving.org's real time planet transitions",
   "version": "1.0",
 
   "browser_action": {
